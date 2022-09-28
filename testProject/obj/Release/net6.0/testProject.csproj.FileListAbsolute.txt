@@ -1,0 +1,15 @@
+/Users/decagon/Projects/testProject/testProject/bin/Release/net6.0/testProject
+/Users/decagon/Projects/testProject/testProject/bin/Release/net6.0/testProject.deps.json
+/Users/decagon/Projects/testProject/testProject/bin/Release/net6.0/testProject.runtimeconfig.json
+/Users/decagon/Projects/testProject/testProject/bin/Release/net6.0/testProject.dll
+/Users/decagon/Projects/testProject/testProject/bin/Release/net6.0/testProject.pdb
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.csproj.AssemblyReference.cache
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.AssemblyInfoInputs.cache
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.AssemblyInfo.cs
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.csproj.CoreCompileInputs.cache
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.dll
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/refint/testProject.dll
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.pdb
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/testProject.genruntimeconfig.cache
+/Users/decagon/Projects/testProject/testProject/obj/Release/net6.0/ref/testProject.dll
